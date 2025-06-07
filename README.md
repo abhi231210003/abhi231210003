@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">a passionate Computer Science student with a strong enthusiasm for technology, software development, and problem-solving. I am dedicated to continuous learning and excited about contributing to impactful projects.</h3>
 
-- //🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi231210003?tab=repositories](https://github.com/abhi231210003?tab=repositories)
 
-- //💬 Ask me about **Frontend Development and DSA**
+- 💬 Ask me about **Frontend Development and DSA**
 
 - 📫 How to reach me **abhishekkumar25225@gmail.com**
 
